@@ -1,0 +1,2 @@
+First run the python backend and then after run the php front end in localhost
+make sure to free the 5000 port in your pc
